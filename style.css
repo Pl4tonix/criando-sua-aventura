@@ -1,0 +1,24 @@
+body{
+    background-color:green;
+    color:black;
+    font-family: "Libre Baskerville", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0,
+}
+
+button {
+    background-color:greenyellow ;
+    color: black;
+    font-family: "Libre Baskerville", serif;
+}
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display: block;
+}
